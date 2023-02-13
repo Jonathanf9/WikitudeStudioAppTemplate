@@ -1,0 +1,11 @@
+package com.wikitude.wikitudestudioandroidapptemplate;
+
+public class WikitudeSDKConstants {
+	
+
+	/**
+	 * enter valid license key here to get rid of watermarkin. Note: Ensure to choose a new and unique package name up front (e.g. com.yourcompany.yourappname)
+	 */
+	protected static final String WIKITUDE_SDK_KEY = "ksAqpKjc0EESoaYIT5PrLUBBk3A2QCbRpEep3r66DVWi5fAI7anAGqrZTzQCls4U34R0FwvVzFZduB5i6Nk1oA6fw4d1+c6ebmSahq0VNdd+CqZtuHr64jdKqwwxIIwGP5uZiCVqUDK4l1Abq/8rucKT5KPCaOiE3RNDVEx2c8RTYWx0ZWRfXzULPxOHmuwSej+NgSyIYUUeyMM5SPQUGKUfYdCZn9EYn4vWONauMS7704KNqKOlJTjJJnK0FSM9O/+Kp4DJQYKbbvIT9W7vh1GHIsngv4IYufAP994sDysLSjOTSy6ad0IW2/qF8Fm+NRIMkXBTSFCDSzRuYgcjcVv/CTOdFTEMLRUMbKFwZHgLwA/wNEb49f2qf/W9OFxOVVns59c9zGIClM4aEGhO/LWd7S8VDykL3HC6RsavlhBgC0HfgcOyUGhWAfqCp5tPrJL3J6YZ9PlZvvZbNevN8NUJSA2GsHvaryNXUmmUenCJ+5AuUuNWK1WpMS88awzsbdtbtKZYRptyFEoL5EK+Q85JV7RyKi80rf3LFiWkmrWhM7dkSlD1hdmF/fInX22YGetfeeut0JTvWOA5445eKbc7xIB9xOFXU/chKVEkUF/cgBnIWl0zgukYqUEQiTaYSWPagEWdBa1zsrJSl9WZV5myum4suOmO6KYqqPr7AvZIUdp1IgFTgogy/QMP2Kz4l9SljgHUFyqRMUaeAfMSsATurUnMCKayb7OQOe/VPpq6vprUGSFsKaEIc2fwsoB5PCA89ZAFClwAcQ668FC7b9HGw27R6NszRLCNVBnq6H+9OqiHrj7I9zcAYYGLnJbg/Ru/3/Id2geB8v61oLz5Y0bDS5ZN8/wS4SfuA01E2Dc=";
+
+}
